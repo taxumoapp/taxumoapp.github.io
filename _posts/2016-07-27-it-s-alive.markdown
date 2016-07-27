@@ -1,0 +1,6 @@
+---
+published: true
+title: It's Alive!
+layout: post
+---
+Thanks for visiting! We're building Taxumo from the ground up so excuse the mess. :)
