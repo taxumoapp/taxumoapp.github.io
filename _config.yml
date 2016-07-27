@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://taxumoapp.github.io
-title: Taxumo | Blog
+title: Taxumo
 tagline: All about taxes...
-description: Automate your taxes with Taxumo!
+description: Blogging about taxes!
 paginate: 5
