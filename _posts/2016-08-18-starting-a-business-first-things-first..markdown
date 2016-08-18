@@ -13,3 +13,6 @@ But when someone approach me nowadays the first thing I’ll do is congratulate 
 
 
 What’s the point? For aspiring entrepreneurs, my view is just focus first on your product/idea and the rest will be secondary. Say you’re into baking. Focus first on perfecting those irresistible pastries and creating that eye-catching brand/marketing. When your creation becomes a hit, I suppose it’s not too late to then shift your lenses into your costs and expenses and look for cheaper sources for your ingredients? Yes, that stack of receipts and bills surely have to be taken care of, but when one’s business takes flight, the rest will be easy.
+
+
+Mark Ong
